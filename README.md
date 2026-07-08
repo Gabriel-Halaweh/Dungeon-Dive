@@ -1,5 +1,5 @@
 # Dungeon-Dive
-Dungeon Dive is a comprehensive suite of Dungeon Master and Player tools made to create and run homebrew D&amp;D worlds and campaigns.
+Dungeon Dive is a comprehensive web-based suite of Dungeon Master and Player tools made to create and run homebrew D&amp;D worlds and campaigns.
 
 For now this repository will hold showcase images while it is being worked on. The following is a showcase of the Suite's tools and features. 
 
